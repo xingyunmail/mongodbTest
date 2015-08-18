@@ -3,3 +3,5 @@
 3、git add . 将改动的地方添加到版本管理器中
 4、git  commit -m "注释log" 提交注释说明
 5、git push -u origin master  提交的所有在分支中
+
+开学咯
